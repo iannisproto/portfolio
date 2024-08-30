@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Performances
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
