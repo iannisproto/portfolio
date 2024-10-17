@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Diary
-description: Lorem ipsum dolor est
+description: null
 image: assets/images/diary.jpg
 nav-menu: true
 ---

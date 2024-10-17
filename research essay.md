@@ -1,8 +1,8 @@
 ---
-title: Social networking
+title: Research Essay
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/social_networking.jpg
+description: null
+image: assets/images/research_essay.jpg
 nav-menu: true
 ---
 
