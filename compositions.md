@@ -9,20 +9,20 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
+<!-- One
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>N    ullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
 </section>
-
+-->
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="lullabies.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Lullabies</h3>
 				</header>
-				<p>Our very first compositions in class were done using MuseScore 4. Our task was to create four simple melodies using a simple 8-bar form and a structure we decided in class.</p>
+				<p>Our very first compositions in class were done using MuseScore 4. Our task was to create four simple melodies in G major using a simple 8-bar form and a structure we decided in class.</p>
 				<ul class="actions">
 					<li><a href="lullabies.html" class="button">View scores</a></li>
 				</ul>
@@ -44,11 +44,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Variation</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Our next project was to choose a melody, either one we'd already created.-</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">View scores</a></li>
+					<li><a href="generic.html" class="button">View score</a></li>
 				</ul>
 			</div>
 		</div>
