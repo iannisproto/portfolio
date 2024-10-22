@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Variation</h3>
+					<h3>Theme and Variatons</h3>
 				</header>
-				<p>Our next project was to choose a melody, either one we'd already created.-</p>
+				<p>Our next project involved selecting a melody, either one we had previously composed or a new creation. Once we had made our choice, we would explore various interpretations and variations, to experiment with different styles and techniques.' </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">View score</a></li>
 				</ul>
