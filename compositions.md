@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Compositions
-description: A catalogue of my written productions in class, along with notes
+description: A catalogue of my written compositions. It includes notes that explain how I came up with my ideas and the steps I took during my writing process for each piece to give a better understanding of my approach to writing.
 image: assets/images/compositions.jpg
 nav-menu: true
 ---
