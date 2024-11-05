@@ -1,7 +1,11 @@
 ---
 layout: landing
 title: Diary
+<<<<<<< HEAD
 description: A collection of personal reflections where I track my musical growth and share insights, backed by real examples of my progress along the way
+=======
+description: null
+>>>>>>> dc751b87e5524dafcf8b2670549dcd7069237522
 image: assets/images/diary.jpg
 nav-menu: true
 ---
@@ -23,7 +27,11 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
+<<<<<<< HEAD
 			<img src="{% link assets/images/graz_operahouse.jpg %}" alt="" data-position="center center" />
+=======
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+>>>>>>> dc751b87e5524dafcf8b2670549dcd7069237522
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,7 +47,11 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
+<<<<<<< HEAD
 			<img src="{% link assets/images/instruments.jpg %}" alt="" data-position="top center" />
+=======
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+>>>>>>> dc751b87e5524dafcf8b2670549dcd7069237522
 		</a>
 		<div class="content">
 			<div class="inner">
