@@ -50,7 +50,7 @@ nav-menu: true
 				</header>
 				<p>Our next project involved selecting a melody, either one we had previously composed or a new creation. Once we had made our choice, we would explore various interpretations and variations, to experiment with different styles and techniques.</p>
 				<ul class="actions">
-					<li><a href="theme_and_variations.html" class="button">View score</a></li>
+					<li><a href="theme_and_varations.html" class="button">View score</a></li>
 				</ul>
 			</div>
 		</div>

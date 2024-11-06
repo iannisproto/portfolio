@@ -10,8 +10,8 @@ show_tile: false
 <div class="row">
 	<div class="8u 12u$(small)">
         <div style="text-align: center;">
-            <img src="assets/compositions/first_lullaby.png" style="width: 90%;">
-            <audio controls style="width: 90%;">
+            <img src="assets/compositions/first_lullaby.png" style="width: 100%;">
+            <audio controls style="width: 100%;">
                 <source src="assets/compositions/first_lullaby.mp3" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
@@ -30,8 +30,8 @@ show_tile: false
 <div class="row">
 	<div class="8u 12u$(small)">
         <div style="text-align: center;">
-            <img src="assets/compositions/second_lullaby.png" style="width: 90%;">
-            <audio controls style="width: 90%;">
+            <img src="assets/compositions/second_lullaby.png" style="width: 100%;">
+            <audio controls style="width: 100%;">
                 <source src="assets/compositions/second_lullaby.mp3" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
@@ -50,8 +50,8 @@ show_tile: false
 <div class="row">
 	<div class="8u 12u$(small)">
         <div style="text-align: center;">
-            <img src="assets/compositions/third_lullaby.png" style="width: 90%;">
-            <audio controls style="width: 90%;">
+            <img src="assets/compositions/third_lullaby.png" style="width: 100%;">
+            <audio controls style="width: 100%;">
                 <source src="assets/compositions/third_lullaby.mp3" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
@@ -70,8 +70,8 @@ show_tile: false
 <div class="row">
 	<div class="8u 12u$(small)">
         <div style="text-align: center;">
-            <img src="assets/compositions/fourth_lullaby.png" style="width: 90%;">
-            <audio controls style="width: 90%;">
+            <img src="assets/compositions/fourth_lullaby.png" style="width: 100%;">
+            <audio controls style="width: 100%;">
                 <source src="assets/compositions/fourth_lullaby.mp3" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>

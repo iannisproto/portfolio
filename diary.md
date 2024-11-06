@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Attended Performances</h3>
 				</header>
-				<p>This part of my musical portfolio will share my experience in attending concerts of classical music. Every performance deeply impressed me, whether it was the depth of emotions in symphonies or the fine beauty of solo parts. I will also talk about how these concerts have deepened my appreciation of classical music and inspired me with new ideas in my work.</p>
+				<p>This part of my musical portfolio will share my experience in attending concerts. Every performance deeply impressed me, whether it was the depth of emotions in symphonies or the fine beauty of solo parts. I will also talk about how these concerts have deepened my appreciation of classical music and inspired me with new ideas in my work.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -55,7 +55,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/classroom.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
