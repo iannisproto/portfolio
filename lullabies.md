@@ -79,5 +79,5 @@ show_tile: false
 	</div>
 	<div class="4u$ 12u$(small)">
 		<h3>Composing Fourth Lullaby</h3>
-		<p>For the final lullaby, I changed my approach again. I wanted to create a slower and softer melody this time. I hoped it would feel more calming and gentle. It was a different way to think about the music. I wanted to make something soothing.</p>
+		<p>For the final lullaby, I changed my approach again. I wanted to create a slower and softer melody this time. I hoped it would feel more calming and gentle.</p>
 	</div>

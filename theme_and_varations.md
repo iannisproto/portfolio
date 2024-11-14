@@ -18,39 +18,38 @@ show_tile: false
         </div>
 	</div>
 	<div class="4u$ 12u$(small)">
-		<h3 style="margin-top: 110px; margin-bottom: 0px;">Theme</h3>
+		<h3 style="margin-bottom: 0px;">Theme</h3>
         <audio controls style="width: 100%;">
                 <source src="assets/compositions/theme.mp3" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
-        <p>My theme is just my first lullaby.</p>
+        <p>I chose to use my first lullaby as the theme.</p>
 
-		<h3 style="margin-top: 65px; margin-bottom: 0px;">First Variaton</h3>
+		<h3 style="margin-bottom: 0px;">First Variaton</h3>
         <audio controls style="width: 100%;">
                 <source src="assets/compositions/first_variation.mp3" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
-        <p>Triplets.</p>
+        <p>For the first variation, I decided to incorporate triplets into the melody, to create a quick and brisk feel.</p>
 
-		<h3 style="margin-top: 60px; margin-bottom: 0px;">Second Variation</h3>
+		<h3 style="margin-bottom: 0px;">Second Variation</h3>
         <audio controls style="width: 100%;">
                 <source src="assets/compositions/second_variation.mp3" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
-        <p>Eighth notes.</p>
+        <p>I decide to use eight notes and quarter notes while stile keeping the same impression as in the theme.</p>
 
-		<h3 style="margin-top: 55px; margin-bottom: 0px;">Third Variation</h3>
+		<h3 style="margin-top: 35px; margin-bottom: 0px;">Third Variation</h3>
         <audio controls style="width: 100%;">
                 <source src="assets/compositions/third_variation.mp3" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
-        <p>Here I tried for a slightly sad variation.</p>
-
-		<h3 style="margin-top: 70px; margin-bottom: 0px;">Fourth Variation</h3>
+        <p>I aimed at creating a sad variation. I decided to try using a 3/4 time signature and did my best to make it somber.</p>
+		<h3 style="margin-bottom: 0px;">Fourth Variation</h3>
         <audio controls style="width: 100%;">
                 <source src="assets/compositions/fourth_variation.mp3" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
-        <p>---</p>
+        <p>I wanted to make this the most wild and difficult, to really have fun with it. This one took the longest time to make, as I was searching for sections that fit together to make it feel rampant. In the end I rethought a lot of the pieces in it, and restructured it to.</p>
 	</div>
 </div>
