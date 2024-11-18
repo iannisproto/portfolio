@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Performances
-description: Here I list all the times I've performed in front of other people, while reflecting over my playing and reviewing myself
+title: Elements
+description: null
 image: assets/images/performances.jpg
 nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
