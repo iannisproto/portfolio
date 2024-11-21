@@ -5,7 +5,7 @@ description: A short introduction to my musical beginning, progression and explo
 image: assets/images/about_me.jpg
 nav-menu: true
 ---
-<p style="font-size: 22px; margin-right: 50px; margin-left: 50px;">
+<p style="font-size: 22px; margin-right: 50px; margin-left: 50px; margin-top: 150px;">
 <span class="image right"><img src="{% link assets/images/about_me.png %}" alt="" /></span>
 Hi! I'm Iannis! I'm sixteen and have been playing the violin since I was ten. That might sound late for most people but it's an amazing trip for me. At first when I started out playing the violin, I wasn't really into it, like much more than doing something rather than loving it. But then I changed once I turned fourteen. I became serious about my playing this instrument and began seeing it as something more than just a school activity.
 <br/>
