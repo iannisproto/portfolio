@@ -24,7 +24,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="lullabies.html" class="image">
+		<a href="compositions/lullabies.html" class="image">
 			<img src="{% link assets/images/notes1.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -34,13 +34,13 @@ nav-menu: true
 				</header>
 				<p>Our very first compositions in class were done using MuseScore 4. Our task was to create four simple melodies in G major using a simple 8-bar form and a structure we decided in class.</p>
 				<ul class="actions">
-					<li><a href="lullabies.html" class="button">View scores</a></li>
+					<li><a href="compositions/lullabies.html" class="button">View scores</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="theme_and_variations.html" class="image">
+		<a href="compositions/theme_and_variations.html" class="image">
 			<img src="{% link assets/images/notes2.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -50,7 +50,7 @@ nav-menu: true
 				</header>
 				<p>Our next project involved selecting a melody, either one we had previously composed or a new creation. Once we had made our choice, we would explore various interpretations and variations, to experiment with different styles and techniques.</p>
 				<ul class="actions">
-					<li><a href="theme_and_varations.html" class="button">View score</a></li>
+					<li><a href="compositions/theme_and_varations.html" class="button">View score</a></li>
 				</ul>
 			</div>
 		</div>
