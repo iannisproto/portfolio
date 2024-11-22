@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="diary/diary/attended_performances.html" class="image">
+		<a href="diary/attended_performances.html" class="image">
 			<img src="{% link assets/images/graz_operahouse.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -38,7 +38,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="diary/diary/learning_instruments.html" class="image">
+		<a href="diary/learning_instruments.html" class="image">
 			<img src="{% link assets/images/instruments.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -54,7 +54,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="diary/diary/lesson_diary.html" class="image">
+		<a href="diary/lesson_diary.html" class="image">
 			<img src="{% link assets/images/classroom.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
