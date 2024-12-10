@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>This part of my musical portfolio will share my experience in attending concerts. Every performance deeply impressed me, whether it was the depth of emotions in symphonies or the fine beauty of solo parts. I will also talk about how these concerts have deepened my appreciation of classical music and inspired me with new ideas in my work.</p>
 				<ul class="actions">
-					<li><a href="diary/attended_performances.html" class="button">Learn more</a></li>
+					<li><a href="diary/attended_performances_index.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

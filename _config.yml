@@ -1,7 +1,7 @@
 remote_theme: jekyll-theme-forty-jekyll-theme
 # site settings
 title: IannisPortfolio
-subtitle: S6MUSA24-25
+subtitle: S6/S7MUSA23-25
 email:
 description: Welcome to my portfolio. Here, you'll find my musical diary, including performances, compositions, and progress notes.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
