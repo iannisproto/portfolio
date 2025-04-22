@@ -136,6 +136,11 @@ tr:hover a {
                 <td><a></a></td>
                 <td class="right">12/12-2024</td>
             </tr>
+            <tr onclick="location.href='attended-performances.html#10-04-25';">
+                <td><a>Lang Lang: Kreisleriana</a></td>
+                <td><a></a></td>
+                <td class="right">10/04-2025</td>
+            </tr>
         </tbody>
     </table>
 </div>

@@ -4,4 +4,5 @@ layout: post
 description: null
 image: assets/images/research_essay.jpg
 nav-menu: true
+show_tile: true
 ---
