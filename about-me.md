@@ -2,7 +2,7 @@
 title: About me
 layout: post
 description: A short introduction to my musical beginning, progression and exploration written before my S6-S7 years at the age of sixteen
-image: assets/images/about_me.png
+image: assets/images/about_me.jpg
 nav-menu: true
 ---
 <div class="box"  style="font-size: 22px;">
